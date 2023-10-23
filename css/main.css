@@ -1,0 +1,30 @@
+:root {
+    /* Agrega las fuentes aqui */
+    --dark-cyan: hsl(158, 36%, 37%);
+    --cream: hsl(30, 38%, 92%);
+}
+html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+}
+*,*:before,*:after{
+    box-sizing: inherit;
+}
+body{
+    /* font-family: Agrega la fuente de prefenecia; */
+    background-color: var(--cream);
+    font-size: 1.6rem;
+    line-height: 2rem;
+}
+
+.container{
+    max-width: 120rem;
+    width: 90%;
+    margin: 0 auto;
+}
+
+img{
+    max-width: 100%;
+}
