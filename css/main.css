@@ -67,7 +67,7 @@ img {
 .card-img {
     height: 24rem;
     width: auto;
-    background-image: url('/images/image-product-mobile.jpg');
+    background-image: url('/assets/image-product-mobile.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -128,7 +128,7 @@ img {
     .card-img {
         height: 45rem;
         width: 33.8rem;
-        background-image: url('/images/image-product-desktop.jpg');
+        background-image: url('/assets/image-product-desktop.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
